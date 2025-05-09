@@ -50,6 +50,11 @@ To build a visually appealing and interactive dashboard using Tableau that allow
 
 ---
 
+## Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/b587c256-57fe-4c2d-9ebb-53a6eb42f807)
+
+
 ## ✅ Insights and Conclusion
 
 After going through the dashboard and analyzing the data from the Superstore dataset, a few clear patterns stood out that could help the business make better decisions:
@@ -74,11 +79,10 @@ After going through the dashboard and analyzing the data from the Superstore dat
 
 ---
 
-## 📁 Files in This Repo
+## 📁 Files in this Repo
 
-- `https://github.com/DatawithSandhra/Analytics_report/blob/main/Tableau_assign_github.twbx` – Tableau workbook
-- `` – Original brief and requirements
-- `dashboard_preview.png` – Optional screenshot (add if available)
+<a href="https://github.com/DatawithSandhra/Analytics_report/blob/main/Tableau_assign_github.twbx">Tableau Workbook</a>
+<a href="https://github.com/DatawithSandhra/Analytics_report/blob/main/Superstore%20Dataset.xls">Superstore Data</a>
 
 ---
 
